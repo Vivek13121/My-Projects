@@ -18,6 +18,8 @@ This interactive Python application helps users learn vocabulary through flashca
 ## Screenshots
 
 ![Flashcard App Screenshot](https://github.com/Vivek13121/My-Projects/tree/main/Flashcard/screenshots_of_project)
+![Flashcard App Screenshot](https://github.com/Vivek13121/My-Projects/blob/main/Flashcard/screenshots_of_project/Screenshot%202024-07-14%20103347.png)
+![Flashcard App Screenshot](https://github.com/Vivek13121/My-Projects/blob/main/Flashcard/screenshots_of_project/Screenshot%202024-07-14%20103406.png)
 
 
 
