@@ -9,6 +9,11 @@ This is a Pomodoro Timer application implemented in Python using the Tkinter mod
 - **Session Tracking**: Keeps track of completed work sessions and displays a check mark for each one.
 - **Reset Functionality**: Allows you to reset the timer at any time.
 
+## Screenshots
+
+![Pomodoro App Screenshot](https://github.com/Vivek13121/My-Projects/blob/main/Pomodoro_GUI/Screenshots/Screenshot%202024-07-14%20105819.png)
+
+
 ## Getting Started
 
 ### Prerequisites
