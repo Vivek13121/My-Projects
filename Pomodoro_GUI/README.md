@@ -12,6 +12,7 @@ This is a Pomodoro Timer application implemented in Python using the Tkinter mod
 ## Screenshots
 
 ![Pomodoro App Screenshot](https://github.com/Vivek13121/My-Projects/blob/main/Pomodoro_GUI/Screenshots/Screenshot%202024-07-14%20105819.png)
+![Pomodoro App Screenshot](https://github.com/Vivek13121/My-Projects/tree/main/Pomodoro_GUI/Screenshots)
 
 
 ## Getting Started
