@@ -14,7 +14,7 @@ This Rain Alert project is an automated system that checks the weather forecast 
 - `requests` library for API calls
 - `smtplib` for sending emails
 - `python-dotenv` for managing environment variables
-- ![Python Anywhere](https://www.pythonanywhere.com/) for automation
+-  Python anywhere for automation
 
 ## Usage
 
@@ -31,7 +31,7 @@ This Rain Alert project is an automated system that checks the weather forecast 
 
 ## Screenshots
 
-![Weather Alert Email](screenshots/weather_alert_email.png)
+![Weather Alert Email](https://github.com/Vivek13121/My-Projects/tree/main/Automated_Rain_Alert/Screenshot 2024-07-15 105431.png)
 *Example of the weather alert email sent by the script.*
 
 ## Contact
