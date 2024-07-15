@@ -31,7 +31,7 @@ This Rain Alert project is an automated system that checks the weather forecast 
 
 ## Screenshots
 
-![Weather Alert Email](https://github.com/Vivek13121/My-Projects/tree/main/Automated_Rain_Alert/Screenshot 2024-07-15 105431.png)
+![Weather Alert Email](https://github.com/Vivek13121/My-Projects/blob/e717faa6084de80b67a2842e7385ac335540df40/Automated_Rain_Alert/Screenshot%202024-07-15%20105431.png)
 *Example of the weather alert email sent by the script.*
 
 ## Contact
